@@ -1,1 +1,31 @@
+/*
 
+16 Typogrpahy
+
+28 Layout
+
+*/
+
+
+
+
+
+
+/*  Typography  */
+
+
+h1, h2 {
+    font-family: 'Azeret Mono', monospace;
+    color: 008000;
+}
+
+p, a {
+    font-family: 'Roboto Slab';
+    font-size: 8px;
+    color: ff0000;
+}
+
+/*  Layout  */
+
+
+/*  Media   */
